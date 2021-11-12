@@ -1,6 +1,6 @@
 using System;
 
-namespace HashTables_BST_Day15
+namespace HashTables
 {
     class Program
     {
